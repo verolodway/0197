@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Parejas()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Parejas\r\n
+comment1.params=persona
+comment1.target=void\ a\u00F1adirPersonas(Personas)
+comment2.params=
+comment2.target=int\ getNumerAleatorio()
+comment3.params=
+comment3.target=void\ getPareja()
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n
+numComments=4
